@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -e "\n7-atividade, Estruturas condicionais  FOR;\n "
+echo -e "\n7-atividade, Estruturas condicionais ;\n "
 
 
 #2-atividade;uso do comando export e soma das variaveis;
