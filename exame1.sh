@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 #1-teste.
 echo -e "\n Desistir nunca o caminho he longo, mas a vitoria he certa.\n"
@@ -9,7 +9,7 @@ read -p "Qual he os 3 diretorios que vocer quer,DIR1 DIR2 DIR3:" DIR
 ls -la ${DIR}
 
 #3-teste
-echo -e "\n data de hoje:"
+echo -e "\n data de hoje: "
 date +" %d/%m/%y"
 
 
