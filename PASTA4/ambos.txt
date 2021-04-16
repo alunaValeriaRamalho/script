@@ -1,0 +1,16 @@
+ambos.txt
+atividade4.sh
+atual
+a.txt
+b.txt
+c.txt
+exame1.sh
+exame3.4.sh
+falha.txt
+ok.txt
+PASTA3.4
+PASTA4
+README.md
+r.txt
+teste2.txt
+w.txt

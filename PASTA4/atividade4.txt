@@ -1,0 +1,2 @@
+echo "Alguns arquivos foram copiados para outra pasta, tambem deletei alguns , 
+treinando e organizando pasta , tambem aprendendo a usar  o  github."

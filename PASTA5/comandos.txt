@@ -1,0 +1,21 @@
+1  history -w
+    2  ls -la | wc -l
+    3  ls -l | sort -n 
+    4  ls -d */
+    5  ls w.txt
+    6  echo $?
+    7  cat m.txt
+    8  echo $?
+    9  ls -l | sort -n -k 5 | tail -30
+   10  du -k . | sort -n -k 1 | tail -30
+   11  cat -n r.txt
+   12  > comamdos4.txt
+   13  ls
+   14  vim exame4.sh
+   15  ./exame4.sh
+   16  vim exame4.sh
+   17  ./exame4.sh   
+   18  ./exame4.sh   w.txt r.txt  m.txt
+   19  vim exame4.sh
+   20  ls
+   21  history > comandos4.txt
