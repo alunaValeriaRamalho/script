@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "4 - Atividade Comandos de Redirecionamentos"
+echo "4 - Atividade Comandos de Redirecionamentos "
     1  history -w
     2  echo " obase=16
 (11^3+31/4)+13*3

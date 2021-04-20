@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -e "\n Atividade Condicionais.\n"
+echo -e "\n Atividade Condicionais.\n "
 
 #teste1.imprimir o num inteiro menor;"
 echo " entre com dois numeros inteiros"

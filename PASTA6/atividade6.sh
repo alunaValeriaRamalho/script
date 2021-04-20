@@ -2,7 +2,7 @@
 
 echo -e "Atividade Lacos de Repeticao\n"
 #1-Atividade
-echo -e "Imprimir em linha de comando os numeros pares e comparar entre o A he B; \n"
+echo -e "Imprimir em linha de comando os numeros pares e comparar entre o A he B; \n "
 for x in $(seq $1 $2 | grep -E '[0-9]*[2468]$'); do
    for y in $(seq $1 $2 | grep -E '[0-9]*[2468]$'); do
       echo " Num par A $x ;  num par B $y;"
