@@ -4,7 +4,7 @@ echo -e "\n 8 - Atividade  Estrutura while e case.\n"
 
 # 2- atividade Exibir  data e  arquivo he criado.
 while [[ ! -f /tamp/chave.txt ]]; do
-  date "+F/ %T"
+  date "+F%/ %T"
   echo " criando o arquivo"
   sleep 2 
 done
