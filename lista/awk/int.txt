@@ -1,0 +1,16 @@
+
+546 source /home/gove/venv-tasks/bin/activate
+547 cd django
+548 ls
+549 cd tasks_project/
+550 ls
+551 ./manage.py runserver 0:8888
+552 ls
+553 cd /etc
+554 ls 
+555 ls -l
+556 ls -l | head
+557 history
+558 history | head
+559 history
+
