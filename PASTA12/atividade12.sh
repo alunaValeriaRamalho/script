@@ -20,10 +20,7 @@ echo
 awk -v p=70 '{for (i=NF-3; i<=NF; ++i) if ($i < p) next} 1' $arq
 
 
-# 8 - atividade , histirograma das medias.
-awk '{print " notas "  $1" "$2"  "$3" "$4" "$5,";","media" " "($1+$2+$3+$4+$5)/3}' < 8notas.txt
-
-
+#atividade-8 , outro arquivo.
 
 # 10- atividade, 
 echo
