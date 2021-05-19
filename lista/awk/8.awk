@@ -1,6 +1,6 @@
 
 
-# 8- atividade,exibir histograma  das medias.
+# 8- atividade,notas e medias.
 
 
 BEGIN {
