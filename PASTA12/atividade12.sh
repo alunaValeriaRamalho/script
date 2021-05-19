@@ -1,8 +1,11 @@
 #!/bin/bash
 
-#2- atividade, 
-awk 'NF>=4' < 2rankin.txt
-
+#2- atividade,rankin meninos e meninas.
+echo
+read -p "Digite o arquivo: " arq
+echo
+awk '{print $1" "$2}' < $arq > meninos.txt
+awk '{print $3" "$4}' < $arq > meninas.txt
 
 
 #4- Atividade , quantos downloads efetuados pelos usuarios no utimo mes.
