@@ -10,7 +10,7 @@ while read line; do
 done
 
 
-# executando ./e.sh << EOL
+# executando ./2atv.sh << EOL
 #>bash
 #>is
 #>tought
